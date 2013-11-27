@@ -1,3 +1,1 @@
 Folder where code for the GoC challenge will be put.
-
-luke
